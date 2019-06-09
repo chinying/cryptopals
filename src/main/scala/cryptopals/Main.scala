@@ -2,5 +2,6 @@ package com.chinying.cryptopals
 
 object Main extends App {
   // Challenge1
-  Challenge2
+  // Challenge2
+  Challenge3
 }
